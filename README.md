@@ -75,7 +75,7 @@ Hello! I'm **Yosef**, a passionate full-stack developer with a love for backend 
 - **Email:** joseteshe2017@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jossieT](https://linkedin.com/in/yosef-teshome-96516b188)  
 - **Upwork:** [upwork.com/freelancers/~jossieT](https://upwork.com/freelancers/yosefteshome)  
-- **Telegram:** [@jossiefTe](https://t.me/jossiefTe)  
+- **Telegram:** [@jossiefTe](https://t.me/jossiefTe) 
 
 ---
 
